@@ -52,8 +52,8 @@ and later verify their identity using the same methods. The backend is built wit
 ### Backend Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/face-recognition-app.git
-    cd face-recognition-app/backend
+    git clone https://github.com/Kitessafikadu/Revece.git
+    cd Revece/backend
     ```
 
 2. Create a virtual environment and activate it:
