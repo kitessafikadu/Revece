@@ -1,4 +1,4 @@
-# Face Recognition App
+# Revece - Face Recognition and Verification App
 
 This project is a face recognition web application that allows users to register their face using a webcam or uploaded image 
 and later verify their identity using the same methods. The backend is built with FastAPI, while the frontend is powered by React and Tailwind CSS.
